@@ -3,3 +3,4 @@ this is added via echo, but not overridden
 
 
 this is added in feature-branch-1
+another commit in the same branch
